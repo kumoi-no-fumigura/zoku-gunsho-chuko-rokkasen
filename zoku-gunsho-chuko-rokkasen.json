@@ -5,7 +5,12 @@
  "yomi": "ちゅうころっかせん",
  "category": "私撰集",
  "kind": "prose",
- "description": null,
+ "description": {
+  "kind": "秀歌撰",
+  "era": "未詳",
+  "author": "撰者 未詳",
+  "desc": "源俊頼・藤原基俊・藤原長実ら平安後期の歌人6人の秀歌を、歌人ごとに題を付けて集めた秀歌撰。"
+ },
  "editions": [
   {
    "pid": "nao-733548",
@@ -4228,6 +4233,6 @@
   "yaku": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T04:55:45+09:00"
+  "updated_at": "2026-10-30T09:05:47+09:00"
  }
 }
